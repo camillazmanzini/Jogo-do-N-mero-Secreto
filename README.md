@@ -1,2 +1,2 @@
-# Jogo-do-N-mero-Secreto
+# Jogo do Numero Secreto
 Jogo desenvolvido durante curso de JavaScript
